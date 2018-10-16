@@ -19,7 +19,15 @@ public abstract class Stall implements IReviewed {
         return this.name;
     }
 
-    public int getReview() {
+    public String getOwnerName() {
+        return this.ownerName;
+    }
+
+    public int getParkingSpot() {
+        return this.parkingSpot;
+    }
+
+    public int getRating() {
         return this.rating;
     }
 
