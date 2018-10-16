@@ -63,4 +63,11 @@ public class ThemeParkTest {
         assertEquals(1, themePark.getAllAllowedFor(visitor).size());
     }
 
+    @Test
+    public void reviewString() {
+        themePark.addAttraction(dogems);
+        themePark.addStall(tobaccoStall);
+        assertEquals("Dogems: 0 TobaccoStall: 0 ", themePark.reviewString());
+    }
+
 }

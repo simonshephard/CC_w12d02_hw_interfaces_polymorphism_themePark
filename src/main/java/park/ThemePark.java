@@ -39,10 +39,14 @@ public class ThemePark {
     public ArrayList<IReviewed> getAllReviewed() {
         ArrayList<IReviewed> reviewed = new ArrayList<>();
         for (IReviewed attraction : this.attractions) {
+            if (attraction instanceof IReviewed) {
                 reviewed.add(attraction);
+            }
         }
         for (IReviewed stall : this.stalls) {
+            if (stall instanceof IReviewed) {
                 reviewed.add(stall);
+            }
         }
         return reviewed;
     }
@@ -61,6 +65,17 @@ public class ThemePark {
             }
         }
         return secured;
+    }
+
+    public String reviewString() {
+        String reviews = "";
+        for (IReviewed attraction : this.attractions) {
+            reviews += (attraction.getName() + ": " + attraction.getRating() + " ");
+        }
+        for (IReviewed stall : this.stalls) {
+            reviews += (stall.getName() + ": " + stall.getRating() + " ");
+        }
+        return reviews;
     }
 
 }
