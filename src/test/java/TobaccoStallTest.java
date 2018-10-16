@@ -47,6 +47,17 @@ public class TobaccoStallTest {
         assertFalse(tobaccoStall.isAllowedTo(visitorTooYoung));
     }
 
+    @Test
+    public void defaultPrice() {
+        assertEquals(6.60, tobaccoStall.defaultPrice(), 0.01);
+    }
+
+    @Test
+    public void priceFor() {
+        assertEquals(6.60, tobaccoStall.priceFor(visitor), 0.01);
+    }
+
+
 
 
 

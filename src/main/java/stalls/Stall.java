@@ -8,6 +8,7 @@ public abstract class Stall implements IReviewed {
     private String ownerName;
     private int parkingSpot;
     private int rating;
+    private double defaultPrice;
 
     public Stall(String name, String ownerName, int parkingSpot) {
         this.name = name;

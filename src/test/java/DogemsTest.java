@@ -1,4 +1,5 @@
 import attractions.Dogems;
+import interfaces.IReviewed;
 import org.junit.Before;
 import org.junit.Test;
 import park.Visitor;
@@ -44,5 +45,9 @@ public class DogemsTest {
         assertEquals(1.40, dogems.priceFor(visitorYoung), 0.01);
     }
 
+    @Test
+    public void isReviewed() {
+        assertTrue(dogems instanceof IReviewed);
+    }
 
 }
