@@ -30,43 +30,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="39" />
+          <entry key="java" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="2" />
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4564" />
+          <entry key="java" value="4964" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4564" />
+          <entry key="JAVA" value="4964" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="19" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DogemsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="16" selection-end-line="17" />
+            <state relative-caret-position="281">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1021#1022#0" expanded="true" />
@@ -176,11 +162,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/park/ThemePark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="1170">
+              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
@@ -196,16 +182,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="69" column="32" lean-forward="true" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+            <state relative-caret-position="202">
+              <caret line="83" column="71" selection-start-line="83" selection-start-column="71" selection-end-line="83" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#310#311#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IReviewed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -650,7 +645,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539718715792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539759505345" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -703,34 +698,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 19h 00m 56s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 19h 04m 34s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 19h 04m 43s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 19h 04m 53s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 24m 10s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 24m 45s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 32m 36s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 33m 13s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 33m 53s.xml">
-      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.16 at 20h 34m 04s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 26m 22s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 27m 59s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 28m 49s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 28m 54s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 29m 00s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 48m 44s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 49m 37s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 51m 37s.xml">
+      <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_CC_w12d02_hw_interfaces_polymorphism_themePark_test - 2018.10.17 at 07h 55m 50s.xml">
       <configuration name="All in CC_w12d02_hw_interfaces_polymorphism_themePark_test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -791,13 +786,6 @@
             <element signature="e#401#402#0" expanded="true" />
             <element signature="e#435#436#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IReviewed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -987,34 +975,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DogemsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="16" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="69" column="32" lean-forward="true" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/park/ThemePark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="1170">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
@@ -1025,6 +989,37 @@
             <element signature="e#665#666#0" expanded="true" />
             <element signature="e#725#726#0" expanded="true" />
             <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IReviewed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DogemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="83" column="71" selection-start-line="83" selection-start-column="71" selection-end-line="83" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>

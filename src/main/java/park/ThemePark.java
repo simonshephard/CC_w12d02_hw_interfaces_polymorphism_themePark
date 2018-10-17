@@ -53,6 +53,7 @@ public class ThemePark {
 
     public ArrayList<ISecurity> getAllAllowedFor(Visitor visitor) {
         ArrayList<ISecurity> secured = new ArrayList<>();
+        ArrayList<ISecurity> allowed = new ArrayList<>();
         for (IReviewed attraction : this.attractions) {
             if (attraction instanceof ISecurity) {
                 secured.add((ISecurity)attraction);
@@ -64,7 +65,13 @@ public class ThemePark {
                 secured.add((ISecurity)stall);
             }
         }
-        return secured;
+        for (ISecurity item : secured) {
+            if (item.isAllowedTo(visitor)) {
+                allowed.add(item);
+            }
+
+        }
+        return allowed;
     }
 
     public String reviewString() {
